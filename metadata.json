@@ -1,6 +1,0 @@
-{
-  "name": "ABTalks 60-Day Challenge",
-  "description": "Mobile-first 60-Day Coding Challenge platform for Indian college students to build in public, stay consistent, and showcase proof of work.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
